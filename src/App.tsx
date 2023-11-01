@@ -9,6 +9,9 @@ function App() {
         <p>
           Valya is the best artist in the world!
         </p>
+        <p>
+          Welcome!
+        </p>
       </header>
     </div>
   );
