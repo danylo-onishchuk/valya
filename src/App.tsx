@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,9 +6,6 @@ function App() {
       <header className="App-header">
         <p>
           Valya is the best artist in the world!
-        </p>
-        <p>
-          Welcome!
         </p>
       </header>
     </div>
