@@ -1,15 +1,13 @@
 import './App.css';
+import { MainInfo } from './components/MainInfo/MainInfo';
+import { MainLayout } from './components/layouts/MainLayout/MainLayout';
 
-function App() {
+export function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Valya is the best artist in the world!
-        </p>
-      </header>
+    <div className="app">
+      <MainLayout>
+        <MainInfo />
+      </MainLayout>
     </div>
   );
 }
-
-export default App;
