@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  gap: 8px;
+}
+
+.icons {
+  display: flex;
+
+  gap: 8px;
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+
+  gap: 8px;
+
+  font-size: 14px;
+}

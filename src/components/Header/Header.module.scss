@@ -1,0 +1,52 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 16px;
+}
+
+.titleImg {
+  height: 150px;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+
+  width: 100%;
+}
+
+.menuItem {
+  text-decoration: none;
+  color: black;
+
+  font-size: 22px;
+
+  transition: 500ms;
+}
+
+.menuItem:hover {
+  color: pink;
+}
+
+.work {
+  font-size: 22px;
+  cursor: pointer;
+  
+  transition: 500ms;
+}
+
+.work:hover {
+  color: pink;
+}
+
+.worksMenu {
+  display: none;
+}
