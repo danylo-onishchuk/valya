@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/valya/static/css/main.3a3b55e7.css",
-    "main.js": "/valya/static/js/main.c600bdc4.js",
-    "index.html": "/valya/index.html",
-    "main.3a3b55e7.css.map": "/valya/static/css/main.3a3b55e7.css.map",
-    "main.c600bdc4.js.map": "/valya/static/js/main.c600bdc4.js.map"
+    "main.css": "/static/css/main.3a3b55e7.css",
+    "main.js": "/static/js/main.c600bdc4.js",
+    "index.html": "/index.html",
+    "main.3a3b55e7.css.map": "/static/css/main.3a3b55e7.css.map",
+    "main.c600bdc4.js.map": "/static/js/main.c600bdc4.js.map"
   },
   "entrypoints": [
     "static/css/main.3a3b55e7.css",
