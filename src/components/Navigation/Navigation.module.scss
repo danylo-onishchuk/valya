@@ -29,6 +29,15 @@
   color: pink;
 }
 
+.work:hover .worksMenu {
+  display: inline-block;
+  flex-direction: column;
+
+  position: absolute;
+
+  gap: 16px;
+}
+
 .worksMenu {
   display: none;
 }

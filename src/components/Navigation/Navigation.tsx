@@ -4,10 +4,12 @@ export function Navigation() {
   return (
     <nav className={styles.menu}>
       <div className={styles.work}>
-        Work
+        Portfolio
+        <br/>
         <div className={styles.worksMenu}>
-          <a href="/" className={styles.menuItem}>Books</a>
-          <a href="/" className={styles.menuItem}>Cards</a>
+          <a href="/" className={styles.menuItem}>‣ Books</a>
+          <br/>
+          <a href="/" className={styles.menuItem}>‣ Cards</a>
         </div>
       </div>
       <a href="/" className={styles.menuItem}>Shop</a>
