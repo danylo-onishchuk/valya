@@ -10,9 +10,7 @@ export const MainLayout =({children}: LayoutProps) =>{
   return(
     <div className={styles.page}>
       <Header />
-
       <main>{children}</main>
-
       <Footer />
     </div>
   )
