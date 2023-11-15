@@ -10,7 +10,7 @@ export function App() {
       <MainLayout>
         <>
           <Routes>
-            <Route path="" element={<MainInfo />} />
+            <Route path="/" element={<MainInfo />} />
             <Route path="/about" element={<MainInfo />} />
             <Route path="/cards" element={<InProgress />} />
             <Route path="/books" element={<InProgress />} />
