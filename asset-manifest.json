@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/valentyna-melnychuck.com/static/css/main.3aeac0da.css",
-    "main.js": "/valentyna-melnychuck.com/static/js/main.de047e0b.js",
+    "main.js": "/valentyna-melnychuck.com/static/js/main.b0e4fbd6.js",
     "index.html": "/valentyna-melnychuck.com/index.html",
     "main.3aeac0da.css.map": "/valentyna-melnychuck.com/static/css/main.3aeac0da.css.map",
-    "main.de047e0b.js.map": "/valentyna-melnychuck.com/static/js/main.de047e0b.js.map"
+    "main.b0e4fbd6.js.map": "/valentyna-melnychuck.com/static/js/main.b0e4fbd6.js.map"
   },
   "entrypoints": [
     "static/css/main.3aeac0da.css",
-    "static/js/main.de047e0b.js"
+    "static/js/main.b0e4fbd6.js"
   ]
 }
